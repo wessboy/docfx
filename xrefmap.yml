@@ -26,6 +26,19 @@ references:
   isSpec: "True"
   fullName: Calculator.App.Add
   nameWithType: App.Add
+- uid: Calculator.App.Multiply(System.Int32,System.Int32)
+  name: Multiply(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Multiply_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Multiply(System.Int32,System.Int32)
+  fullName: Calculator.App.Multiply(System.Int32, System.Int32)
+  nameWithType: App.Multiply(Int32, Int32)
+- uid: Calculator.App.Multiply*
+  name: Multiply
+  href: api/Calculator.App.html#Calculator_App_Multiply_
+  commentId: Overload:Calculator.App.Multiply
+  isSpec: "True"
+  fullName: Calculator.App.Multiply
+  nameWithType: App.Multiply
 - uid: Calculator.App.Subtract(System.Int32,System.Int32)
   name: Subtract(Int32, Int32)
   href: api/Calculator.App.html#Calculator_App_Subtract_System_Int32_System_Int32_
