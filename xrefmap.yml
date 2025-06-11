@@ -1,0 +1,41 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Calculator
+  name: Calculator
+  href: api/Calculator.html
+  commentId: N:Calculator
+  fullName: Calculator
+  nameWithType: Calculator
+- uid: Calculator.App
+  name: App
+  href: api/Calculator.App.html
+  commentId: T:Calculator.App
+  fullName: Calculator.App
+  nameWithType: App
+- uid: Calculator.App.Add(System.Int32,System.Int32)
+  name: Add(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Add_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Add(System.Int32,System.Int32)
+  fullName: Calculator.App.Add(System.Int32, System.Int32)
+  nameWithType: App.Add(Int32, Int32)
+- uid: Calculator.App.Add*
+  name: Add
+  href: api/Calculator.App.html#Calculator_App_Add_
+  commentId: Overload:Calculator.App.Add
+  isSpec: "True"
+  fullName: Calculator.App.Add
+  nameWithType: App.Add
+- uid: Calculator.App.Subtract(System.Int32,System.Int32)
+  name: Subtract(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Subtract_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Subtract(System.Int32,System.Int32)
+  fullName: Calculator.App.Subtract(System.Int32, System.Int32)
+  nameWithType: App.Subtract(Int32, Int32)
+- uid: Calculator.App.Subtract*
+  name: Subtract
+  href: api/Calculator.App.html#Calculator_App_Subtract_
+  commentId: Overload:Calculator.App.Subtract
+  isSpec: "True"
+  fullName: Calculator.App.Subtract
+  nameWithType: App.Subtract
